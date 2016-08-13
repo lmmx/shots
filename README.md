@@ -6,4 +6,4 @@ Versioned image hosting originally for [biochemistri.es](http://biochemistri.es)
 
 ### Development
 
-This will transition into a CDN at some point, more suitable for serving [statically generated] [permut.co](http://permut.co), and [spin.systems](http://spin.systems).
+This will transition into a CDN at some point, more suitable for serving [permut.co](http://permut.co), and [spin.systems](http://spin.systems) [_statically generated_]
